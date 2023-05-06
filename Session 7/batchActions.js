@@ -42,7 +42,6 @@ const aboutPeople = people.map(function (p) {
 console.log(people2);
 console.log(aboutPeople);
 
-
 const oldPeople = people.filter(function (p) {
     return (p.age >= 40);
 });
