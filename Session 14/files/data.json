@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mohammad",
+    "age": 55,
+    "city": "Hebron"
+  },
+  {
+    "name": "Sarah",
+    "age": 17,
+    "city": "Nablus"
+  },
+  {
+    "name": "Hiba",
+    "age": 20,
+    "city": "Jerusalem"
+  },
+  {
+    "name": "Waleed",
+    "age": 25,
+    "city": "Ramallah"
+  }
+]
